@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Edson",
+      "mensagem": "Sejam bem vindos ao meu blog pessoal."
+    },
+    {
+      "id": 2,
+      "nome": "Natália vitória",
+      "mensagem": "Esse blog é muito bom. Eu recomendo."
+    },
+    {
+      "id": 3,
+      "nome": "Pedro Vitor Emanuel",
+      "mensagem": "Realmente é um ótimo blog. Vou visitar mais vezes"
+    },
+    {
+      "id": 4,
+      "nome": "Marcos",
+      "mensagem": "Muito bom. Os assuntos estão me ajudando muito."
+    },
+    {
+      "id": 5,
+      "nome": "Alexandre",
+      "mensagem": "Posso solicitar assuntos? Vou pedir métodos java."
+    },
+    {
+      "id": 6,
+      "nome": "Arthur C. Doyle",
+      "mensagem": "De muita ajuda este compêndio de conhecimentos."
+    },
+    {
+      "nome": "Bram Stoker",
+      "mensagem": "Acho que vou escrever um livro sobre vampiros.",
+      "id": 7
+    },
+    {
+      "nome": "Mary Shelley",
+      "mensagem": "Uma fonte de conhecimento que surprende. ",
+      "id": 8
+    },
+    {
+      "nome": "Alucard",
+      "mensagem": "Meu nome, ao contrário, é \"Dracula\" :-)",
+      "id": 9
+    }
+  ]
+}
